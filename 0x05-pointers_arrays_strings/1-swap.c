@@ -5,13 +5,13 @@
  * @b: integer to swap
  */
 void swap_int(int *a, int *b)
-	{
-		int m;
+{
+	int m;
 
-		m = *a;
-	       *a = *b;
-	       *b = m;
-	}
+	m = *a;
+	*a = *b;
+	*b = m;
+}
 
 	       
 
